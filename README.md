@@ -4,7 +4,7 @@
 ## Description
 50 People - Chinese-English Mixed Average Tone Speech Synthesis Corpus-Customer Service. It is recorded by Chinese native speakers,customer service text, and the syllables, phonemes and tones are balanced. Professional phonetician participates in the annotation. It precisely matches with the research and development needs of the speech synthesis.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1118?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/tts/1118?source=Github
 
 
 ## Format
